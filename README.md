@@ -7,13 +7,13 @@
 ## 📸 Dashboard Preview
 
 ### Page 1 — Operations Overview
-![Overview](screenshots/overview.png)
+![Overview](Overview.png)
 
 ### Page 2 — Doctor Performance
 ![Doctors](Doctors.png)
 
 ### Page 3 — Financial Overview
-![Financial](screenshots/financial.png)
+![Financial](Financial.png)
 
 ---
 
