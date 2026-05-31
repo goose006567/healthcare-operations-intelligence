@@ -10,7 +10,7 @@
 ![Overview](screenshots/overview.png)
 
 ### Page 2 — Doctor Performance
-![Doctors](screenshots/doctors.png)
+![Doctors](Doctors.png)
 
 ### Page 3 — Financial Overview
 ![Financial](screenshots/financial.png)
