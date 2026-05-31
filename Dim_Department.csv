@@ -1,0 +1,9 @@
+DepartmentKey,DepartmentName,TotalBeds,AvgLOS_Days,BaseCost,ReadmitRisk,Floor,Wing
+1,Cardiology,40,5.2,8500,0.14,Floor 6,North
+2,Orthopedics,35,4.1,7200,0.09,Floor 1,East
+3,Neurology,30,6.8,9800,0.16,Floor 2,South
+4,Oncology,45,7.5,12000,0.18,Floor 2,North
+5,Pediatrics,38,3.2,5500,0.07,Floor 6,North
+6,Emergency,50,1.8,4200,0.11,Floor 5,West
+7,General Surgery,42,4.6,6800,0.1,Floor 1,North
+8,Obstetrics,36,2.9,5800,0.05,Floor 1,South

@@ -1,0 +1,51 @@
+DoctorKey,DoctorID,DoctorName,Specialization,DepartmentKey,DepartmentName,YearsExperience,Qualification,EmploymentType,ConsultFee
+1,DR0001,Dr. Jackson,Cardiology,1,Cardiology,16,MRCP,Full-time,402.56
+2,DR0002,Dr. Brown,Orthopedics,2,Orthopedics,28,MD PhD,Part-time,415.17
+3,DR0003,Dr. Jackson,Neurology,3,Neurology,2,MD PhD,Part-time,303.11
+4,DR0004,Dr. Johnson,Oncology,4,Oncology,11,MD PhD,Full-time,195.99
+5,DR0005,Dr. Mcconnell,Pediatrics,5,Pediatrics,26,MD,Full-time,531.37
+6,DR0006,Dr. Price,Emergency,6,Emergency,18,MD,Part-time,391.3
+7,DR0007,Dr. Sweeney,General Surgery,7,General Surgery,26,MD,Full-time,523.23
+8,DR0008,Dr. Hill,Obstetrics,8,Obstetrics,25,MRCP,Full-time,467.06
+9,DR0009,Dr. Bailey,Cardiology,1,Cardiology,4,MD PhD,Full-time,593.35
+10,DR0010,Dr. Sloan,Orthopedics,2,Orthopedics,16,MD,Part-time,275.09
+11,DR0011,Dr. Blackburn,Neurology,3,Neurology,25,MD PhD,Full-time,309.87
+12,DR0012,Dr. Bennett,Oncology,4,Oncology,19,MD,Full-time,390.36
+13,DR0013,Dr. Vargas,Pediatrics,5,Pediatrics,17,MD PhD,Part-time,320.75
+14,DR0014,Dr. Duffy,Emergency,6,Emergency,16,MBBS,Full-time,253.07
+15,DR0015,Dr. Gillespie,General Surgery,7,General Surgery,4,MBBS,Part-time,270.48
+16,DR0016,Dr. Edwards,Obstetrics,8,Obstetrics,15,MRCP,Full-time,245.68
+17,DR0017,Dr. Romero,Cardiology,1,Cardiology,33,FRCS,Part-time,214.29
+18,DR0018,Dr. Wells,Orthopedics,2,Orthopedics,10,MD PhD,Full-time,486.16
+19,DR0019,Dr. Hawkins,Neurology,3,Neurology,29,MRCP,Part-time,312.9
+20,DR0020,Dr. Hernandez,Oncology,4,Oncology,10,MRCP,Part-time,190.91
+21,DR0021,Dr. Morgan,Pediatrics,5,Pediatrics,5,MD,Full-time,432.35
+22,DR0022,Dr. Mason,Emergency,6,Emergency,29,MRCP,Full-time,323.15
+23,DR0023,Dr. Patterson,General Surgery,7,General Surgery,31,MRCP,Full-time,586.99
+24,DR0024,Dr. Dominguez,Obstetrics,8,Obstetrics,2,MD,Full-time,495.87
+25,DR0025,Dr. Taylor,Cardiology,1,Cardiology,23,MD,Full-time,345.64
+26,DR0026,Dr. Young,Orthopedics,2,Orthopedics,31,MD,Full-time,587.35
+27,DR0027,Dr. Rush,Neurology,3,Neurology,13,MRCP,Full-time,541.73
+28,DR0028,Dr. Weaver,Oncology,4,Oncology,21,MRCP,Full-time,218.78
+29,DR0029,Dr. Burch,Pediatrics,5,Pediatrics,12,MRCP,Full-time,419.53
+30,DR0030,Dr. Sherman,Emergency,6,Emergency,33,MD,Full-time,568.09
+31,DR0031,Dr. Williams,General Surgery,7,General Surgery,21,MD PhD,Full-time,258.39
+32,DR0032,Dr. Freeman,Obstetrics,8,Obstetrics,7,MD,Part-time,517.21
+33,DR0033,Dr. Wilson,Cardiology,1,Cardiology,10,MD PhD,Part-time,576.08
+34,DR0034,Dr. Schroeder,Orthopedics,2,Orthopedics,12,MBBS,Part-time,583.96
+35,DR0035,Dr. Mayo,Neurology,3,Neurology,14,MBBS,Part-time,597.82
+36,DR0036,Dr. Lindsey,Oncology,4,Oncology,25,FRCS,Part-time,204.45
+37,DR0037,Dr. Bryant,Pediatrics,5,Pediatrics,16,MD,Full-time,159.47
+38,DR0038,Dr. Gates,Emergency,6,Emergency,16,MRCP,Full-time,153.24
+39,DR0039,Dr. Vargas,General Surgery,7,General Surgery,5,MD PhD,Full-time,557.44
+40,DR0040,Dr. Ayala,Obstetrics,8,Obstetrics,23,MD,Full-time,275.31
+41,DR0041,Dr. Watts,Cardiology,1,Cardiology,33,MD PhD,Full-time,475.51
+42,DR0042,Dr. Diaz,Orthopedics,2,Orthopedics,32,MD PhD,Part-time,513.37
+43,DR0043,Dr. Reyes,Neurology,3,Neurology,14,MD,Full-time,446.54
+44,DR0044,Dr. Carter,Oncology,4,Oncology,24,FRCS,Part-time,360.16
+45,DR0045,Dr. Wright,Pediatrics,5,Pediatrics,5,MD,Full-time,331.18
+46,DR0046,Dr. Smith,Emergency,6,Emergency,23,MD,Full-time,236.22
+47,DR0047,Dr. Henry,General Surgery,7,General Surgery,30,MD PhD,Part-time,232.57
+48,DR0048,Dr. Clark,Obstetrics,8,Obstetrics,31,MD PhD,Full-time,349.41
+49,DR0049,Dr. Lopez,Cardiology,1,Cardiology,8,MD,Full-time,586.05
+50,DR0050,Dr. Williams,Orthopedics,2,Orthopedics,17,MD PhD,Part-time,368.54
